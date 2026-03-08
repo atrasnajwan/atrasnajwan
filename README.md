@@ -58,13 +58,11 @@ Building scalable backend systems and modern full-stack applications.
 
 # 📊 GitHub Stats
 
-<!-- <p align="center">
+<p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=atrasnajwan&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://readme-stats-jade-nine.vercel.app/api/top-langs/?username=atrasnajwan&layout=compact&theme=tokyonight&exclude_repo=Gondang-Hero"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atrasnajwan&layout=compact&theme=tokyonight"/>
-
-</p> -->
+</p>
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=atrasnajwan&theme=tokyonight">
